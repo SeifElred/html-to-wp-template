@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Blog Site Template">
-    <meta name="author" content="https://youtube.com/FollowAndrew">
-    <link rel="shortcut icon" href="/wp-content/themes/seifelred/assets/images/logo.png">
+    <meta name="author" content="https://seifelredeini.com/">
+    <link rel="shortcut icon" href="/wp-content/themes/html-to-wp-template/assets/images/logo.png">
     
 	<?php
     	wp_head();
